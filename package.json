@@ -1,0 +1,14 @@
+{
+  "name": "inbarepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inbar": "git://github.com/npm/npm.git#v1.0.27"
+  },
+  "author": "",
+  "license": "ISC"
+}
